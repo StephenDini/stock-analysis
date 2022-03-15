@@ -18,19 +18,19 @@ The code runs quicker
 
 **2017 functions comparison:**
 *Original:*
-![/Resources/VBA_challenge_2017.png]
+![VBA Challenge 2017](/Resources/VBA_challenge_2017.png)
 *Refactored:*
-![/Resources/VBA_challenge_2017 - refactored.png]
+![Refactored first run](/Resources/VBA_challenge_2017 - refactored.png)
 *Refactored Second:*
-![/Resources/VBA_challenge_2017 - refactored - second run.png]
+![Refactored second run](/Resources/VBA_challenge_2017 - refactored - second run.png)
 
 **2018 function comparison:**
 *Original:*
-![/Resources/VBA_challenge_2018.png]
+![VBA Challenge 2018](/Resources/VBA_challenge_2018.png)
 *Refactored:*
-![/Resources/VBA_challenge_2018 - refactored.png]
+![Refactored first run](/Resources/VBA_challenge_2018 - refactored.png)
 *Refactored Second:*
-![/Resources/VBA_challenge_2018 - refactored - second run.png]
+![Refactored second run](/Resources/VBA_challenge_2018 - refactored - second run.png)
 
 #### Disadvantages
 The refactored code will need more work if the data is unorganized. If one ticker is our of place it will get missed. 
