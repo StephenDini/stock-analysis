@@ -17,19 +17,31 @@ Depending on the situation, it might not be worth the time investment. A time sa
 The code runs quicker 
 
 **2017 functions comparison:**
+
 *Original:*
+
 ![VBA Challenge 2017](/Resources/VBA_challenge_2017.png)
+
 *Refactored:*
+
 ![Refactored first run](/Resources/VBA_challenge_2017 - refactored.png)
+
 *Refactored Second:*
+
 ![Refactored second run](/Resources/VBA_challenge_2017 - refactored - second run.png)
 
 **2018 function comparison:**
+
 *Original:*
+
 ![VBA Challenge 2018](/Resources/VBA_challenge_2018.png)
+
 *Refactored:*
+
 ![Refactored first run](/Resources/VBA_challenge_2018 - refactored.png)
+
 *Refactored Second:*
+
 ![Refactored second run](/Resources/VBA_challenge_2018 - refactored - second run.png)
 
 #### Disadvantages
