@@ -23,7 +23,7 @@ Refactoring the code has proven to be benifitial as well. If a larger set up dat
 
 Before refactoring the data will be processed each time z is incremented by one.
 
-```ASP
+```VBA
 For Z = 0 To 11
     ticker = tickers(Z)
     
@@ -126,4 +126,4 @@ Depending on the situation, it might not be worth the time investment. A time sa
 The code runs quicker, this can be seen in the screen shots above which clearly show less computational time for the refactored code.
 
 #### Disadvantages
-Now that the code has been refactored it will run through the data in one pass, this means that any out of place row will cause problems. In order to compensate for this the data should be organized bfore running the software.
+Now that the code has been refactored it will run through the data in one pass, this means that any out of place row will cause problems. In order to compensate for this the data should be organized before running the software.
