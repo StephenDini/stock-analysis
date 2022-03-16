@@ -59,7 +59,7 @@ Next Z
 
 Since the refactored code is incrementing the tickerIndex by one using conditionals, the data will be processed only once. 
 
-```ASP
+```VBA
 For i = 2 To RowCount
 
     '3a) Increase volume for current ticker
@@ -126,4 +126,4 @@ Depending on the situation, it might not be worth the time investment. A time sa
 The code runs quicker, this can be seen in the screen shots above which clearly show less computational time for the refactored code.
 
 #### Disadvantages
-The newly refactored code will only run through the data once, previously it ran through the data each time the ticker index was switched. Now that the code has been refactored it will run through the data in one pass, this means that any out of place row will cause problems. In order to compensate for this the data should be organized bfore running the software.
+Now that the code has been refactored it will run through the data in one pass, this means that any out of place row will cause problems. In order to compensate for this the data should be organized bfore running the software.
