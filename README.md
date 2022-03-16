@@ -98,7 +98,7 @@ Next i
 
 #### 2018 Function Comparison:
 
-A special note, the frst run will always take longer to run because memory has not been allocated just yet. We can see this when looking at the 2018 first and second runs.
+A special note, the frist run will always take longer to run because memory has not been allocated just yet. We can see this when looking at the 2018 first and second runs. Since 2018 was the first one ran, it can be seen that 2017 times are identical because memory has already been allocated. 
 
 *Original:*
 
